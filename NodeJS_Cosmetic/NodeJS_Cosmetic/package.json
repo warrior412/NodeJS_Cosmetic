@@ -1,0 +1,10 @@
+{
+  "name": "node-js_cosmetic",
+  "version": "0.0.0",
+  "description": "NodeJS_Cosmetic",
+  "main": "app.js",
+  "author": {
+    "name": "JunF",
+    "email": ""
+  }
+}
